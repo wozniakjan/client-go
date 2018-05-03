@@ -1,5 +1,5 @@
-hash: 671262e74cab335d4e743b58e9770862b04e0be8d2fc70a7b48acdcbef3e6d6b
-updated: 2018-04-09T10:52:09.598399021-04:00
+hash: 983c27a4da3f48061b15606f92cfb447a022b3c70e5effb1fd3809764e5e0471
+updated: 2018-05-07T14:54:52.321643178+02:00
 imports:
 - name: github.com/davecgh/go-spew
   version: 782f4967f2dc4564575ca782fe2d04090b5faca8
@@ -60,6 +60,8 @@ imports:
   - user/v1
 - name: github.com/spf13/pflag
   version: 4c012f6dcd9546820e378d0bdda4d8fc772cdfea
+- name: github.com/wozniakjan/api
+  version: d52bc3f914effaa1dc8200782a77c3549121d64e
 - name: golang.org/x/crypto
   version: 81e90905daefcd6fd217b62423c0908922eadb30
   subpackages:
